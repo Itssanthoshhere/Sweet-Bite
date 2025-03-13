@@ -421,7 +421,7 @@ a {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     justify-content: center;
-    align-items: center;
+    
     gap: 2rem;
     margin-top: 3rem;
 }
